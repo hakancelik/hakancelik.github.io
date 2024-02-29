@@ -93,8 +93,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://certificate.miuul.com/hakan_celik
-          #date_end: ''
-          #date_start: '2021-01-25'
+          date_end: ''
+          date_start: '2023-06-01'
           description: 'Python Programming for Data Science, CRM Analytics, BG-NBD Gamma-Gamma Models,
           Measurement Problems, AB Testing, Recommendation Systems,
           Feature Engineering, MS SQL, Machine Learning'
@@ -131,7 +131,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: list
+      view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: contact
