@@ -20,16 +20,14 @@ url_slides: ""
 url_video: ""
 slides: ""
 ---
-project_description:
-  data_preparation_analysis_visualization: >
     Data preparation, analysis, and visualization.
-  segmentation_and_marketing_strategy: >
+    Segmentation_and_marketing_strategy:
     An e-commerce company wants to segment its customers and determine marketing strategies based on these segments.
 
-dataset_story: >
+Dataset_story:
   The dataset named Online Retail II contains the sales of an online retail store based in the UK between 01/12/2009 and 09/12/2011.
 
-variables:
+Variables:
   - name: InvoiceNo
     description: Invoice number. A unique number for each transaction, starting with C if it's a canceled transaction.
   - name: StockCode
