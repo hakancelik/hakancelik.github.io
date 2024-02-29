@@ -76,7 +76,6 @@ sections:
               * Modelling
               * Deploying
     design:
-      class: text-center
       columns: '2'
   - block: accomplishments
     content:
@@ -94,7 +93,9 @@ sections:
         - certificate_url: https://certificate.miuul.com/hakan_celik
           #date_end: ''
           #date_start: '2021-01-25'
-          description: 'Python Programming for Data Science, CRM Analytics, BG-NBD Gamma-Gamma Models, Measurement Problems, AB Testing, Recommendation Systems, Feature Engineering, MS SQL, Machine Learning'
+          description: 'Python Programming for Data Science, CRM Analytics, BG-NBD Gamma-Gamma Models,
+          Measurement Problems, AB Testing, Recommendation Systems,
+          Feature Engineering, MS SQL, Machine Learning'
           icon: 
           organization: Miuul
           organization_url: https://www.miuul.com
