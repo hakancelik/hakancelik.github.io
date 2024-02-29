@@ -4,7 +4,7 @@ summary: "CLTV prediction using BG-NBD and Gamma-Gamma models."
 tags:
   - ML
   - DS
-date: "2023-09-27T00:00:00Z"
+date: "2023-09-20T00:00:00Z"
 external_link: ""
 image:
   caption: "Photo by rawpixel on Unsplash"
