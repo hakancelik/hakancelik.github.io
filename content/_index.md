@@ -68,7 +68,7 @@ sections:
           company_url: 'https://www.kodluyoruz.org'
           company_logo: 
           location: İstanbul
-          date_start: '2023-09-011'
+          date_start: '2023-09-11'
           date_end: ''
           description: |2-
               Responsibilities include:
