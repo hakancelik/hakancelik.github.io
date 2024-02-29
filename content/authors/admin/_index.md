@@ -66,7 +66,7 @@ skills:
         percent: 90
         icon: chart-line
         icon_pack: fas
-        - name: Machine Learning
+      - name: Machine Learning
         description: ''
         percent: 90
         icon: chart-line
