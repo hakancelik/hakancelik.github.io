@@ -27,16 +27,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: an aspiring data scientist with a keen interest in data science and machine learning.
 
-
-
-
 # Interests to show in About widget
 interests:
   - Data Science
   - Machine Learning
   - Generative AI and Prompt Engineering
   - Artificial Intelligence
-
 
 # Education to show in About widget
 education:
