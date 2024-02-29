@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Hakan Çelik
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hakan
+last_name: Çelik
 
 # Status emoji
 status:
@@ -17,34 +17,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Jr. Data Scientist | Machine Learning Enthusiast | Penetration Tester
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Kodluyoruz(Mentor Asistant)
+    url: https://www.kodluyoruz.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: an aspiring data scientist with a keen interest in data science and machine learning.
+
+
+
 
 # Interests to show in About widget
 interests:
+  - Data Science
+  - Machine Learning
+  - Generative AI and Prompt Engineering
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc Cyber Security 
+      institution: Ahmet Yesevi University
+      year: 2022
+    - course: Information Technologies
+      institution: Middle East Technical University
+      year: 2018
+    - course: Economics
+      institution: KSU
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,12 +63,17 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 90
+        icon: chart-line
+        icon_pack: fas
+        - name: Machine Learning
+        description: ''
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -94,21 +104,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/hakancelik87
+    label: Reach me
+    display:
+      header: true
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/hakancelik
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/hakancelik87
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +130,13 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Hakan, an aspiring data scientist with a keen interest in data science and machine learning. Thank you for visiting my portfolio page.
+
+I have a deep passion for data science and machine learning, and I am dedicated to constantly improving myself in these fields. On my page, you can find numerous projects that reflect this passion. Analyzing datasets, building machine learning models, and obtaining actionable insights are all exhilarating experiences for me.
+
+Furthermore, I have experience in fields such as cybersecurity and penetration testing. With a solid understanding of data security, I prioritize security in my data science projects and utilize machine learning techniques to address security issues.
+
+My goal is to develop impressive projects in the field of data science and machine learning and become a leading expert in these areas. On my Kaggle profile, you can see the steps I've taken and my achievements towards this goal.
+
+If you share the same passions or are interested in collaborating, please feel free to reach out to me!
 {style="text-align: justify;"}
