@@ -1,3 +1,4 @@
+---
 title: "BG-NBD and Gamma-Gamma for CLTV Prediction"
 summary: "CLTV prediction using BG-NBD and Gamma-Gamma models."
 tags:
@@ -18,7 +19,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 slides: ""
-
+---
 project_description:
   data_preparation_analysis_visualization: >
     Data preparation, analysis, and visualization.
