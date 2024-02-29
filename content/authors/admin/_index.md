@@ -106,7 +106,7 @@ social:
     link: '/#contact'
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/hakancelik87
+    link: https://www.linkedin.com/hakancelik87
     label: Reach me
     display:
       header: true
