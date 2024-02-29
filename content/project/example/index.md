@@ -3,7 +3,7 @@ title: Heart Diseases Prediction
 summary: Heart diseases prediction via six different ML models.
 tags:
   - ML
-date: '2023-09-27T00:00:00Z'
+date: '2023-09-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
