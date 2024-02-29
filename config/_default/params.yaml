@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/hakancelik/hakancelik.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -103,7 +103,7 @@ features:
 # Extensions
 
 extensions:
-  cms:
+  cms: 
     branch: main
     local_backend: false
   academicons:
