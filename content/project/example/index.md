@@ -11,6 +11,7 @@ external_link: ''
 image:
   caption: 
   focal_point: Smart
+  path: kalprahatsizligivar.jpeg
 
 links:
   - icon: github
