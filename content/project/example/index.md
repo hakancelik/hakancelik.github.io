@@ -30,7 +30,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-https://happyheartscapstonemiuul.streamlit.app/
+https://happyheartscapstonemiuul.streamlit.app/ (live project)
+
 This dataset is from 1988 and includes four databases from Cleveland, Hungary, Switzerland, and Long Beach. The dataset comprises 1024 observations and 14 variables, with the "target" variable indicating the presence of heart disease. It is an integer value where 0 = no disease and 1 = disease present.
 
 Our project is a simple Streamlit web application based on users predicting the probability of heart disease based on their characteristics. The prediction is made using a machine learning model trained on heart disease data.
